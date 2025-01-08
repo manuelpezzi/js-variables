@@ -10,6 +10,14 @@ console.log(letName)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+letNumber = 20
+
+letText = "il mio js"
+
+letBool = 0
+
+console.log(letNumber, letText, letBool)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
